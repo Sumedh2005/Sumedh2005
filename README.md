@@ -2,7 +2,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)]
 <h1 align="center">Hi 👋, I'm Sumedh Sawant</h1>
 <h3 align="center">I'm frontend developer </h3>
-<img align="right" width="400" src="https://itgenesis.net/wp-content/uploads/2022/07/39998-web-development.gif"/>
+<img align="right" width="400" src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedh2005&label=Profile%20views&color=0e75b6&style=flat" alt="sumedh2005" /> </p>
 
 - 🔭 I’m currently working on [Github Community website](https://www.githubsrmist.tech/)
